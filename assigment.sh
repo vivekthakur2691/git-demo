@@ -56,7 +56,7 @@ echo "total fatal error: $fatal_error"
 echo "total app started: $app_start"
 echo "Number of lines: $number_of_lines"
 echo "Number of words: $number_of_words"
-echo "The shortest word length is $shortest and word is $shortword"
+echo "The shortest word length is $shortest "
 echo "The longest word length is $longest"
 
 
