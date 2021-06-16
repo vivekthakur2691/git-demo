@@ -1,0 +1,18 @@
+One of these lines is not like the other one.
+One of these is like the other one.
+
+Hello, my name is Jason.
+my name is Jason.
+
+Once upon a time.
+Oce upon a time.
+Replace me!
+
+The dog chased the mouse.
+
+The bat mouse mouse chased the mouse.
+
+The canine chased the mouse.
+
+The canine chased the mouse.
+mouse
