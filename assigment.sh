@@ -2,12 +2,11 @@
 
 
 #file_path="/home/viveks/Downloads/vimclass/inserting.txt"
-
 #file_path="/home/viveks/Downloads/darti_all_2020-10-01.log"
 file_path="/home/viveks/Downloads/darti_all_2021-06-14.log"
 
 
-video_start=`grep -ic 'Video START' < $file_path`
+video_start=`grep -ic 'Video START'  $file_path`
 
 video_complete=`grep -ic 'Video play complete' $file_path`
 
@@ -38,10 +37,10 @@ do
        # longword=$word
     #fi
 
-    elif((len<shortest))
+    elif((len < shortest))
     then
         shortest=$len
-      shortword=$word
+      #shortword=$word
     fi
 
 done
